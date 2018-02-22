@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Authentication Test</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_account_sign_in">Already have an Account, Sign In</string>
+    <string name="register">Register</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an Account, Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="minimum_password">Password should be atleast 6 digits</string>
+    <string name="auth_failed">Authentication Failed, Check your id and password</string>
+    <string name="logout">Logout</string>
+    <string name="verify_your_email_to_continue">Verify your email to continue</string>
+    <string name="resend_email">Resend Email</string>
+    <string name="refresh">Refresh</string>
+    <string name="welcome">Welcome</string>
+</resources>
